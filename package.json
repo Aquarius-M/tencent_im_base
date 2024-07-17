@@ -1,0 +1,23 @@
+{
+  "name": "im-flutter-base",
+  "version": "1.0.0",
+  "description": "[本基类文档](https://doc.weixin.qq.com/doc/w3_AWcADQY0AA8EVZTmu01Tzq501vQv8?scode=AJEAIQdfAAoQzQqbKVAWcADQY0AA8), 仅供腾讯内部浏览。",
+  "main": "auto_export.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.woa.com/29294-22989-29805-29810/im-flutter-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
